@@ -30,4 +30,4 @@ Things you may want to cover:
 * This repository is GitHub's class homework.
 * It was created by Ruby on Rails.
 * I quoted this code => https://www.youtube.com/watch?v=CfdRXSrwLDo
-* I think that Ruby on Rails is amazing
+* I think that Ruby on Rails is amazing 
