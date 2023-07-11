@@ -31,4 +31,4 @@ Things you may want to cover:
 * It was created by Ruby on Rails.
 * I quoted this code => https://www.youtube.com/watch?v=CfdRXSrwLDo
 * I think that Ruby on Rails is amazing framework
-* I had four cookies during
+* I had four cookies during doing
