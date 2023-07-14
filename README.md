@@ -32,4 +32,4 @@ Things you may want to cover:
 * I quoted this code => https://www.youtube.com/watch?v=CfdRXSrwLDo
 * I think that Ruby on Rails is amazing framework.
 * I had four cookies during doing it.
-* I was feeling fun while I 
+* I was feeling fun while I was
